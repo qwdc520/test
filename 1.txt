@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 
 Hello,This master!
-=======
-Hello,world
->>>>>>> dev-1
